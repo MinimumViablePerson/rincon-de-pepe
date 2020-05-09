@@ -1,6 +1,6 @@
 {
-  "delivery_avaiable": false,
+  "delivery_avaiable": true,
   "bookings_available": true,
-  "serving_specials": true,
-  "pepe_is_gone": true
+  "serving_specials": false,
+  "pepe_is_gone": false
 }
