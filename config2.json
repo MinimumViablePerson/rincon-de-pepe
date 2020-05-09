@@ -1,7 +1,7 @@
 {
   "delivery_avaiable": true,
-  "bookings_available": true,
-  "serving_specials": false,
+  "bookings_available": false,
+  "serving_specials": true,
   "pepe_is": "in London",
-  "fish_in_the_sea": 202
+  "fish_in_the_sea": 206
 }
