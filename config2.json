@@ -1,6 +1,6 @@
 {
-  "delivery_avaiable": false,
-  "bookings_available": false,
+  "delivery_avaiable": true,
+  "bookings_available": true,
   "serving_specials": false,
   "pepe_is": "in London"
 }
