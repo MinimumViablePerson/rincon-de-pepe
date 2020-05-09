@@ -1,5 +1,5 @@
 {
-  "delivery_avaiable": true,
-  "bookings_available": false,
-  "serving_specials": false
+  "delivery_avaiable": false,
+  "bookings_available": true,
+  "serving_specials": true
 }
