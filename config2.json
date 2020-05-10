@@ -1,9 +1,9 @@
 {
   "delivery_available": true,
-  "tables_available": 3,
+  "fish_in_the_sea": 3,
   "special_of_the_day": "calamari",
   "pepe_is_in": "London",
-  "fish_in_the_sea": 86,
+  "tables_available": 12,
   "config_options": {
     "pepe_is_in": {
       "type": "select",
@@ -17,7 +17,7 @@
     "fish_in_the_sea": {
       "type": "range",
       "min": 1,
-      "max": 200,
+      "max": 20,
       "step": 1
     }
   }
