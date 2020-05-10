@@ -2,8 +2,8 @@
   "delivery_avaiable": false,
   "bookings_available": false,
   "serving_specials": false,
-  "pepe_is_in": "Brighton",
-  "fish_in_the_sea": 214,
+  "pepe_is_in": "Madrid",
+  "fish_in_the_sea": 221,
   "config_options": {
     "pepe_is_in": {
       "type": "select",
