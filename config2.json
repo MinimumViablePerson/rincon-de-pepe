@@ -1,9 +1,9 @@
 {
-  "delivery_available": false,
-  "fish_in_the_sea": 7,
-  "special_of_the_day": "Tortelloni",
-  "pepe_is_in": "Worthing",
-  "tables_available": 16,
+  "delivery_available": true,
+  "fish_in_the_sea": 101,
+  "special_of_the_day": "Goose",
+  "pepe_is_in": "London",
+  "tables_available": 3,
   "config_options": {
     "pepe_is_in": {
       "type": "select",
