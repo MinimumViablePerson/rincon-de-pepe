@@ -1,3 +1,4 @@
 {
-  "restaurantIsOpen": false
+  "restaurantIsOpen": true,
+  "config_options": null
 }
