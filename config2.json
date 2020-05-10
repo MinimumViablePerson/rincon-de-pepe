@@ -14,7 +14,7 @@
         "Madrid"
       ]
     },
-    "fish_in_the_sea": {
+    "tables_available": {
       "type": "range",
       "min": 1,
       "max": 20,
