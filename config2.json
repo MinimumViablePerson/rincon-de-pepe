@@ -3,5 +3,11 @@
   "bookings_available": false,
   "serving_specials": false,
   "pepe_is_in": "London",
-  "fish_in_the_sea": 214
+  "fish_in_the_sea": 214,
+  "config_options": {
+    "pepe_is_in": {
+      "type": "select",
+      "options": ["London", "Worthing", "Brighton", "Madrid"]
+    }
+  }
 }
