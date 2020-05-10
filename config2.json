@@ -1,9 +1,9 @@
 {
-  "delivery_avaiable": true,
-  "bookings_available": true,
-  "serving_specials": true,
+  "delivery_avaiable": false,
+  "bookings_available": false,
+  "serving_specials": false,
   "pepe_is_in": "London",
-  "fish_in_the_sea": 126,
+  "fish_in_the_sea": 61,
   "config_options": {
     "pepe_is_in": {
       "type": "select",
