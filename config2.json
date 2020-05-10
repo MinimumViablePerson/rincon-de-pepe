@@ -3,7 +3,7 @@
   "bookings_available": false,
   "serving_specials": false,
   "pepe_is_in": "Worthing",
-  "fish_in_the_sea": 116,
+  "fish_in_the_sea": 176,
   "config_options": {
     "pepe_is_in": {
       "type": "select",
