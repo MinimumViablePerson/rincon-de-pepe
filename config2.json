@@ -2,7 +2,7 @@
   "delivery_avaiable": false,
   "bookings_available": false,
   "serving_specials": false,
-  "pepe_is_in": "Madrid",
+  "pepe_is_in": "London",
   "fish_in_the_sea": 225,
   "config_options": {
     "pepe_is_in": {
