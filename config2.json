@@ -1,7 +1,7 @@
 {
-  "delivery_avaiable": true,
-  "bookings_available": true,
-  "serving_specials": true,
+  "delivery_available": true,
+  "tables_available": 3,
+  "special_of_the_day": "calamari",
   "pepe_is_in": "London",
   "fish_in_the_sea": 86,
   "config_options": {
