@@ -13,12 +13,12 @@
         "Brighton",
         "Madrid"
       ]
+    },
+    "fish_in_the_sea": {
+      "type": "range",
+      "min": 1,
+      "max": 200,
+      "step": 5
     }
-  },
-  "fish_in_the_sea": {
-    "type": "range",
-    "min": 1,
-    "max": 200,
-    "step": 5
   }
 }
