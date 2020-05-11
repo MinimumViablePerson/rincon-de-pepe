@@ -3,22 +3,5 @@
   "preparation_time_in_minutes": 101,
   "special_of_the_day": "Goose",
   "pepe_is_in": "London",
-  "tables_available": 3,
-  "config_options": {
-    "pepe_is_in": {
-      "type": "select",
-      "options": [
-        "London",
-        "Worthing",
-        "Brighton",
-        "Madrid"
-      ]
-    },
-    "tables_available": {
-      "type": "range",
-      "min": 1,
-      "max": 20,
-      "step": 1
-    }
-  }
+  "tables_available": 3
 }
