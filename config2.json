@@ -1,9 +1,9 @@
 {
-  "delivery_available": false,
-  "preparation_time_in_minutes": 500,
-  "special_of_the_day": "Goosey",
-  "pepe_is_in": "Madrid",
-  "tables_available": 20,
+  "delivery_available": true,
+  "preparation_time_in_minutes": 496,
+  "special_of_the_day": "Goose",
+  "pepe_is_in": "London",
+  "tables_available": 4,
   "config_options": {
     "pepe_is_in": {
       "type": "select",
