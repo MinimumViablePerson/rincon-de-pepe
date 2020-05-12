@@ -4,7 +4,7 @@
   "special_of_the_day": "Goose",
   "pepe_is_in": "London",
   "tables_available": 4,
-  "what_is_your_story": "Listen to my story...wow",
+  "what_is_your_story": "Hello there.\n\nHow are you today?",
   "config_options": {
     "pepe_is_in": {
       "type": "select",
