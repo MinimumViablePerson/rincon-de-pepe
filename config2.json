@@ -4,6 +4,7 @@
   "special_of_the_day": "Goose",
   "pepe_is_in": "London",
   "tables_available": 4,
+  "what_is_your_story": "Listen to my story...",
   "config_options": {
     "pepe_is_in": {
       "type": "select",
@@ -19,6 +20,9 @@
       "min": 1,
       "max": 20,
       "step": 1
+    },
+    "what_is_your_story": {
+      "type": "textarea"
     }
   }
 }
