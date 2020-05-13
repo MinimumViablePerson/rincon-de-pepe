@@ -1,12 +1,12 @@
 {
   "delivery_available": true,
   "preparation_time_in_minutes": 496,
-  "special_of_the_day": "Go",
+  "special_of_the_day": "Goooo!",
   "pepe_is_in": "London",
   "tables_available": 5,
   "what_is_your_story": "Hello there.\n\nHow are you today?",
   "object_example": {
-    "text": "mmm"
+    "text": "Hello there!"
   },
   "config_options": {
     "pepe_is_in": {
