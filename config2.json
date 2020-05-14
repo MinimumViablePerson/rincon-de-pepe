@@ -1,16 +1,16 @@
 {
-  "delivery_available": false,
+  "delivery_available": true,
   "preparation_time_in_minutes": 20,
   "special_of_the_day": "Goose",
   "pepe_is_in": "London",
-  "tables_available": 3,
+  "tables_available": 20,
   "what_is_your_story": "A long time ago, in a galaxy far far away, we were destined for greatness, but the Jedi's vanity was to be their downfall.",
   "deeply": {
     "nested": {
       "example": {
         "yo": {
           "fo": {
-            "real": "dope..."
+            "real": "dope...!!!"
           }
         }
       }
