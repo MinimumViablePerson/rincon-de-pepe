@@ -1,16 +1,16 @@
 {
-  "delivery_available": true,
-  "preparation_time_in_minutes": 30,
-  "special_of_the_day": "Rat",
-  "pepe_is_in": "London",
-  "tables_available": 20,
+  "delivery_available": false,
+  "preparation_time_in_minutes": 26,
+  "special_of_the_day": "Pork",
+  "pepe_is_in": "Madrid",
+  "tables_available": 8,
   "what_is_your_story": "A long time ago, in a galaxy far far away, we were destined for greatness, but the Jedi's vanity was to be their downfall.",
   "deeply": {
     "nested": {
       "example": {
         "yo": {
           "fo": {
-            "real": "dope...!!!"
+            "real": "nice stuff"
           }
         }
       }
@@ -19,7 +19,12 @@
   "config_options": {
     "pepe_is_in": {
       "type": "select",
-      "options": ["London", "Worthing", "Brighton", "Madrid"]
+      "options": [
+        "London",
+        "Worthing",
+        "Brighton",
+        "Madrid"
+      ]
     },
     "tables_available": {
       "type": "range",
