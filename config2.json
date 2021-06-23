@@ -10,13 +10,7 @@
       "example": {
         "yo": {
           "fo": {
-            "real": {
-              "one": {
-                "two": {
-                  "three": "dope...!!!"
-                }
-              }
-            }
+            "real": "dope...!!!"
           }
         }
       }
