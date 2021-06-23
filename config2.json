@@ -25,12 +25,7 @@
   "config_options": {
     "pepe_is_in": {
       "type": "select",
-      "options": [
-        "London",
-        "Worthing",
-        "Brighton",
-        "Madrid"
-      ]
+      "options": ["London", "Worthing", "Brighton", "Madrid"]
     },
     "tables_available": {
       "type": "range",
